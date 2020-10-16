@@ -11,4 +11,4 @@ async def on_ready():
 async def ping(ctx):
     await ctx.send("pong")
 
-pp.run('NzY2NDY2MjUxMDczMzg4NTc0.X4jxUg.Np2NpHQHNePySnPuG5Nq-P2hd5I')
+pp.run('')
